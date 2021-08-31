@@ -829,6 +829,12 @@ h4 {
     background-image: url("img/image-de-presentation.jpg");
 }
 
+.img-responsive {
+    width: 320px;
+    height: 320px;
+    margin: auto;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
