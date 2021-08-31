@@ -704,13 +704,13 @@ p {
 }
 
 h2 {
-    font-size: 27px;
+    font-size: 22px;
     line-height: 1.4em;
     position: relative;
 }
 
 h3 {
-    font-size: 17px;
+    font-size: 16px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -771,11 +771,11 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #ce3e4b;
 }
 
 .tc-orange {
-    color: #fd9768!important;
+    color: #f0c74f!important;
 }
 
 .tc-white {
@@ -783,12 +783,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #ce3e4b;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #ca2230!important;
     color: #FFFFFF!important;
 }
 
